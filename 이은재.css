@@ -1,0 +1,63 @@
+table{
+    border: 2px solid black;
+}
+
+.ham1-1{
+    widows: 300px;
+    height: 200px;
+}
+
+
+#a1 tr {
+    border: 1px;
+    border-color: black;
+}
+
+#a1 th{
+    background-color: burlywood;
+    width: 300px;
+    height: 30px;
+}
+
+#a1 th:nth-child(1) {
+    width: 380px;
+}
+
+#a1 th:nth-child(2) {
+    width: 450px;
+}
+
+ul>li>span {
+    font-size: 20px;
+}
+
+.ham2-1 {
+    color: azure;
+    background-color: brown;
+}
+.ham2-2 {
+    color: blue;
+    background-color: lightseagreen;
+}
+.ham2-3{
+    background-color: fuchsia;
+
+}
+
+
+mark{
+    background-color: red;
+}
+.ham3-1-1, .ham3-1-2{
+    width: 60px;
+    height: 100px;
+}
+
+.ham3-2 img{
+    width: 200px;
+    height:200px;
+}
+
+.ham3-2 td {
+    background-color: aquamarine;
+}
